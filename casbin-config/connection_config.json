@@ -1,0 +1,4 @@
+{
+    "driverName": "postgres",
+    "dataSourceName": "user=postgres password=mysecretpassword host=casbin-postgres port=5432 dbname=casbin sslmode=disable"
+}
